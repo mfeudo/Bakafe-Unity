@@ -17,12 +17,19 @@ public class TextBoxManager : MonoBehaviour{
 
 //indicates the line number that is currently being displayed on screen
     public int currentLine; 
+
 //indicates the line number that the text should stop at, for either a choice or end of dialogue
     public int endAtLine; 
+
+//button to advance text
+    public Button continueButton;
     
     // Start is called before the first frame update
     void Start()
     {
+
+    Button btn = continueButton.GetComponent<Button>();
+		btn.onClick.AddListener(ContinueButtonClick);
 
     //sort all of the text into the text file array separating by new line characters, there is probably a better/smarter way to do this that we can think of 
         if (textFile != null){
@@ -44,5 +51,12 @@ public class TextBoxManager : MonoBehaviour{
             currentLine++;
         }
 
+    }
+
+    void ContinueButtonClick(){
+        if(currentLine<endAtLine){
+            currentLine++;
+        }
+        
     }
 }
