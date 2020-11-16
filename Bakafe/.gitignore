@@ -9,6 +9,7 @@ Bakafe/[Tt]emp/
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+Bakafe/Temp/UnityLockfile
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
