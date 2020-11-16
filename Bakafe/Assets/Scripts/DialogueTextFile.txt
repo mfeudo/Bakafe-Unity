@@ -1,0 +1,34 @@
+Dialogue Text Start // reminder that editors will show this as line 1 but it will be imported as line 0
+In the heart of the island continent named Terrabilione, in the very core of the state of Khatiya, in the center of it all is a small back-alley cafe. 
+This cafe doesn't get many customers, as it is almost purposefully hidden from public view. Here, "Bakafe" resides, in quiet isolation.
+“Get the HELL out of my shop!” Hēi yells at the top of her lungs, chopping the free-loading customer in the top of the head with her sheathed sword, then kicking him straight out of the door.
+The man flew outside and tumbled as if he had been welted by a cannonball. She sighs, putting the sword on her shoulder. Shenever uses the blade of the sword, but instead keeps it sheathed as a scare tactic to make sure customers pay for their drinks and meals. 
+And she exercises that blackmail almost every day. She furrows her brow. "You know, you're going to get wrinkles if you keep doing that." Farine comments while cleaning a table. She throws a chair at him.
+“Why should I care what my face looks like?” Hēi mutters to herself. “Would that stop me from doing my job? Anyway, it’s your fault if I grow old and wrinkled by the age of 30, with all this stress. Breaking my things, giving food away for free, letting in and trusting strangers…”
+For a moment, Hēi daydreams a scenario where she didn’t open up a café. She’d probably have to work as a bank clerk like her childhood friend did. Handling money, being formal and putting on a fake smile, as she drains people’s livelihoods with loans and collecting debts. 
+She imagines having to deal with stressful and broke customers every day, griping and wanting things for free. It probably wouldn’t be one day before she explodes and gets in a fist fight with someone.
+"You know, you should really try to be more inviting. If you keep scaring them away, eventually we won't have any left," Farine anxiously laguhs. Hēi ignores him.
+Now that she thinks about it, it might not be that different from the job she has now. She’d get paid quite a substantial bit more as well, since she only gets paid enough to keep the café open and a little extra for food and utilities.
+Maybe it is time for her to switch jobs. She’d get benefits and be able tohave assurance of comfort and safety at least. But that assurance comes from the higher-ups. 
+She thinks about how she would have to answer to a boss, and her conduct would be scrutinized and monitored every single day. 
+And relying on someone else for a paycheck, never knowing when or not she could be fired or reprimanded… It would be hell for her. She exhales and gets back to readying a cup of coffee brew for the next customer. 
+She doesn’t feel a bit of happiness or smile at all, an emotion foreign as an alien from space to her lips, but seems content, as she continues her day at the shop.
+Maybe it is best that she opened up her own shop.
+A customer enters. It's Hobbes, a young adult who visits frequently between their part-time commutes. They look disheveled and their eyes are sunken in.
+"Welcome back, Fumes," Hēi says barely looking up at Hobbes. Hēi refers to all her customers by nicknames to help her remember them. She calls Hobbes "Fumes" because he's so tired that all he runs on is fumes. That and Hēi's specially brewed coffee.
+"It's good to see you again, Hobbes! Is it already time for your next job? What is it today again? Package delivery?" Farine tries to make light conversation.
+"Customer Service," Hobbes yawns. "I'm also doing Concierge work late tonight in the capital."
+"Yes, of course! Have you met any important guests who'd love a nice and quiet gem-of-a-cafe to have lunch at?" Farine jokingly prodded.
+"Like anyone would want to go out of their way to come to this hole-in-the-wall," Hēi sneered. "Fumes, the usual?"
+"I'll let you know if I meet anybody who fits that description. And make mine a quad instead of a triple," Hobbes remarks.
+"You got it," Hēi quickly replies.
+Do you prefer coffee or tea?
+Coffee is my favorite.
+I prefer tea.
+Coffee Gang.
+More coffee stuff.
+Tea Gang.
+More tea stuff.
+
+
+
