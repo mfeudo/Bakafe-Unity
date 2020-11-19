@@ -58,3 +58,28 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+
+*.meta
+Bakafe/Library/Artifacts/54/546d8c68a524ec993112e3ecd057a6a3
+Bakafe/Library/ScriptAssemblies/Assembly-CSharp.pdb
+*.bin
+Bakafe/Library/Artifacts/b6/b6f4c95f4911edcefc0593f0e433bed0
+Bakafe/Library/Artifacts/d9/d99b6ec8100bf0c43036fa90bf93755e
+Bakafe/Library/Artifacts/dc/dcb7a03684ad664e4b85db13fd2d1509
+*.meta
+*.meta
+
+
+/*
+
+# Except for these:
+!/.gitignore
+!/Assets
+!/ProjectSettings
+*.log
+*.dwlt
+/Bakafe/Library/shadercompiler-UnityShaderCompiler.exe1.log
+/Bakafe/Library/shadercompiler-UnityShaderCompiler.exe1.log
+/Bakafe/Library/shadercompiler-UnityShaderCompiler.exe2.log
+/Bakafe/Library/CurrentLayout-default.dwlt
